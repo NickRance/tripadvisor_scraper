@@ -1,0 +1,13 @@
+{
+  "name"         : "fdr-tripadvisor-scraper",
+  "version"      : "0.0.1",
+  "description"  : "scrapes tripadvisor's website for reviews.",
+  "main"         : "app.js",
+  "author"       : "Nick Rance",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "xray"    : "latest"
+  }
+}
+
